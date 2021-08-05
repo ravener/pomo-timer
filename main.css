@@ -1,0 +1,14 @@
+body {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+#timer {
+  font-size: 90px;
+}
+
+.container {
+  margin-top: 60%;
+  margin-bottom: 40%;
+}
